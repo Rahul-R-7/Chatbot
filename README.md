@@ -19,7 +19,7 @@ The Negotiation Chatbot is a Streamlit application that simulates a price negoti
 
 - **Python 3.7 or higher**
 - **Groq API key**
-- 
+  
 
 ### Steps
 
@@ -27,7 +27,7 @@ The Negotiation Chatbot is a Streamlit application that simulates a price negoti
 
    ```bash
   git clone https://github.com/Rahul-R-7/Chatbot.git
-  cd Chatbot
+cd Chatbot
    ```
 
 2. **Install Dependencies**
