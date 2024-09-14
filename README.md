@@ -26,8 +26,8 @@ The Negotiation Chatbot is a Streamlit application that simulates a price negoti
 1. **Clone the Repository**
 
    ```bash
-  git clone https://github.com/Rahul-R-7/Chatbot.git
-cd Chatbot
+   git clone https://github.com/Rahul-R-7/Chatbot.git
+   cd Chatbot
    ```
 
 2. **Install Dependencies**
