@@ -18,16 +18,16 @@ The Negotiation Chatbot is a Streamlit application that simulates a price negoti
 ### Prerequisites
 
 - **Python 3.7 or higher**
-- **Ngrok account**: [Sign up for ngrok](https://ngrok.com/)
 - **Groq API key**
+- 
 
 ### Steps
 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/negotiation-chatbot.git
-   cd negotiation-chatbot
+  git clone https://github.com/Rahul-R-7/Chatbot.git
+  cd Chatbot
    ```
 
 2. **Install Dependencies**
@@ -95,10 +95,7 @@ The application consists of the following key components:
 - Groq API Client
 - Pyngrok
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Contact
 
-For any questions or feedback, please contact [your.email@example.com].
+For any questions or feedback, please contact [rahulr21302@gmail.com].
