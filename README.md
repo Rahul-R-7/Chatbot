@@ -65,7 +65,7 @@ ngrok authtoken $NGROK_AUTH_TOKEN
 ngrok http 8501
 ```
 
-Note the forwarding URL provided by ngrok (e.g., https://abcd1234.ngrok.io).
+Note the forwarding URL provided by ngrok ([e.g., https://abcd1234.ngrok.io](https://00a0-34-125-232-163.ngrok-free.app/)).
 
 ### Run the Streamlit App
 
